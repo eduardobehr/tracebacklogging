@@ -1,0 +1,5 @@
+2020-06-09 12:39:02,555 ERROR Traceback (most recent call last):
+  File "/home/eduardo/Documents/Python/logger/tracebacklogging.py", line 53, in <module>
+    x = 1/0  # this raises the ZeroDivisionError
+ZeroDivisionError: division by zero
+
